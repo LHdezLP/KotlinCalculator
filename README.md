@@ -63,5 +63,6 @@ Run the project following the steps outlined above.
 
 ## Screenshots
 
-The screenshot is in this very same readme, but inside of App
+![image](https://github.com/user-attachments/assets/6d683069-3fd5-4ef2-b6cc-4204901752d0)
+
 
