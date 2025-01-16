@@ -63,4 +63,5 @@ Run the project following the steps outlined above.
 
 ## Screenshots
 
-![img.png](img.png)
+The screenshot is in this very same readme, but inside of App
+
